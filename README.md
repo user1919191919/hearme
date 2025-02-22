@@ -35,4 +35,18 @@ No external files were used for input or output in this implementation. All inte
 **Conclusion**
 This project successfully provides a customizable and secure password generation tool. Future enhancements could include a GUI version, integration with password storage solutions, and additional security features like entropy calculations.
 
+**Step 1:**
+![image](https://github.com/user-attachments/assets/18e0d7d2-22f1-4970-bbca-3b9fc0afb6fb)
+**Step 2:**
+![image](https://github.com/user-attachments/assets/9edc2a70-d627-4b02-828c-130f80f21ffc)
+**Step 3:**
+![image](https://github.com/user-attachments/assets/bb52117b-7409-4fe4-bc37-80967ea40d9f)
+**Step 4:**
+![image](https://github.com/user-attachments/assets/7636ad80-c36f-4cd3-b17e-9678f864f730)
+**Step 5:**
+![image](https://github.com/user-attachments/assets/f275de1a-9bfe-4ac9-ad23-48d5dbe53cab)
+**Step 6-7:**
+![image](https://github.com/user-attachments/assets/986f6d30-65f9-48b2-a38a-2e7ebd7cabfc)
+
+
 **The Project made by Beksultan Akmatbek uulu, from the group COMCEH24.**
